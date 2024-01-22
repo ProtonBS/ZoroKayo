@@ -1,1 +1,2 @@
-pip freeze > requirements.txt
+package1==1.0.0
+package2>=2.1.0
